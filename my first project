@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My first project </title>
+</head>
+<body>
+<h1>My first project</h1>
+<p>
+This web page is my first project that was programed by my self without any help. I am very proud of it. I think it is very good for my first try.
+<h1>What do you think about it</h1>
+<form action="#">
+<label for="it's great">
+  <input id="it's great" type="radio" name="it's great-it's ok-it's really bad" checked "> it's great
+  </label>
+<label for="it's ok">
+  <input id="it's ok" type="radio" name="it's great-it's ok-it's really bad" "> it's ok
+  </label>
+<label for="it's really bad">
+  <input id="it's really bad" type="radio" name="it's great-it's ok-it's really bad" "> it's really bad
+  </label>
+<button type="submit">submit
+</form>
+</p>
